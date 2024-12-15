@@ -1,9 +1,9 @@
 {
     "platformValues": {
-      "python": "3.4.5",
-      "android": "7.9.9",
-      "python_linux": "3.4.5",
-      "python_macos": "3.4.5",
-      "python_windows": "3.4.5"
+      "python": "4.0.0",
+      "android": "8.0.0",
+      "python_linux": "4.0.0",
+      "python_macos": "4.0.0",
+      "python_windows": "4.0.0"
     }
   }
