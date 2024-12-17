@@ -1,7 +1,7 @@
 {
     "platformValues": {
       "python": "4.0.4",
-      "android": "8.0.8",
+      "android": "8.0.10",
       "python_linux": "4.0.4",
       "python_macos": "4.0.4",
       "python_windows": "4.0.4"
