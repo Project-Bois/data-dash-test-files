@@ -1,15 +1,15 @@
 {
     "platformValues": {
-      "python": "4.1.9",
-      "python_linux": "4.1.9",
-      "python_macos": "4.1.9",
-      "python_windows": "4.1.9",
+      "python": "4.2.0",
+      "python_linux": "4.2.0",
+      "python_macos": "4.2.0",
+      "python_windows": "4.2.0",
       "python_auga": "3.0.0",
       "python_buga": "6.0.0",
-      "python_cuga": "4.1.9",
-      "android": "8.1.3",
+      "python_cuga": "4.2.0",
+      "android": "8.1.5",
       "android_auga": "7.2.0",
       "android_buga": "8.9.0",
-      "android_cuga": "8.1.3"
+      "android_cuga": "8.1.5"
     }
   }
